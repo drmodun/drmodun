@@ -9,6 +9,7 @@
 
 
 **Frameworks & Runtime**
+
 ![NextJS](https://img.shields.io/badge/-NextJS-1a1b27?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
 ![NestJS](https://img.shields.io/badge/-NestJS-1a1b27?style=for-the-badge&logo=nestjs)
