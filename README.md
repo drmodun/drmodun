@@ -4,7 +4,7 @@
 ![Typsecript](https://img.shields.io/badge/-Typescript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7AA2F7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
 ![SQL](https://img.shields.io/badge/-SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=BB9AF7)
-![C#](https://img.shields.io/badge/-C#-1a1b27?style=for-the-badge)
+![C#](https://img.shields.io/badge/-C#-1a1b27?style=for-the-badge&logo=csharp)
 ![JAVA](https://img.shields.io/badge/-Java-1a1b27?style=for-the-badge&logo=java)
 
 
